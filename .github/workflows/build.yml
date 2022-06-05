@@ -11,7 +11,7 @@ env:
   POSTGRESQL_DB: studentdb
   POSTGRESQL_USER: arontesfu
   POSTGRESQL_PASSWORD: password
-  JAVA_VERSION: 1.11
+  JAVA_VERSION: 1.15
 
 jobs:
   build:
